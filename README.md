@@ -1,6 +1,6 @@
 # calendar
 
-[![GoDoc](https://godoc.org/github.com/lpar/calendar?status.svg)](https://godoc.org/github.com/lpar/calendar)
+[![GoDoc](https://godoc.org/github.com/genofire/calendar?status.svg)](https://godoc.org/github.com/genofire/calendar)
 
 Go calendar Date (only), clock Time (only), and nullable versions of same, with sensible JSON and SQL behavior.
 

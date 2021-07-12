@@ -1,3 +1,3 @@
-module github.com/lpar/calendar
+module github.com/genofire/calendar
 
 go 1.12
